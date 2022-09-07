@@ -3,3 +3,5 @@ spring:
     name: springcloud-config-dev
   profiles:
     active: dev
+config:
+  info: github中的配置文件，version=1
