@@ -4,4 +4,4 @@ spring:
   profiles:
     active: dev
 config:
-  info: github,version=1231234
+  info: github,version=666
